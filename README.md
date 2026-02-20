@@ -186,8 +186,8 @@ Tested with:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Pascali-ne/Responsive_summative.git 
-   cd Responsive_summative
+   git clone https://github.com/Pascali-ne/Responsible_Summative.git
+   cd Responsible_Summative
    ```
 
 2. **Open in browser**:
