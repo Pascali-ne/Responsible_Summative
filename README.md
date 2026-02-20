@@ -228,8 +228,7 @@ Tested with:
    - Save and wait for deployment
 
 3. **Access your site**:
-   - URL will be: `https://gedeon.github.io/student-finance-tracker`
-
+   - URL will be: `https://pascali-ne.github.io/Responsible_Summative/`
 ## Running Tests
 
 ### Automated Validation Tests
