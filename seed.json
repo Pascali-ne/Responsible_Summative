@@ -1,0 +1,292 @@
+{
+  "transactions": [
+    {
+      "id": "txn_001",
+      "description": "Lunch at cafeteria",
+      "amount": 12.50,
+      "category": "Food",
+      "date": "2025-02-15",
+      "createdAt": "2025-02-15T12:30:00.000Z",
+      "updatedAt": "2025-02-15T12:30:00.000Z"
+    },
+    {
+      "id": "txn_002",
+      "description": "Chemistry textbook",
+      "amount": 89.99,
+      "category": "Books",
+      "date": "2025-02-13",
+      "createdAt": "2025-02-13T10:15:00.000Z",
+      "updatedAt": "2025-02-13T10:15:00.000Z"
+    },
+    {
+      "id": "txn_003",
+      "description": "Monthly bus pass",
+      "amount": 45.00,
+      "category": "Transport",
+      "date": "2025-02-10",
+      "createdAt": "2025-02-10T08:00:00.000Z",
+      "updatedAt": "2025-02-10T08:00:00.000Z"
+    },
+    {
+      "id": "txn_004",
+      "description": "Coffee with friends",
+      "amount": 8.75,
+      "category": "Entertainment",
+      "date": "2025-02-16",
+      "createdAt": "2025-02-16T14:20:00.000Z",
+      "updatedAt": "2025-02-16T14:20:00.000Z"
+    },
+    {
+      "id": "txn_005",
+      "description": "Tuition payment spring semester",
+      "amount": 2500.00,
+      "category": "Fees",
+      "date": "2025-02-01",
+      "createdAt": "2025-02-01T09:00:00.000Z",
+      "updatedAt": "2025-02-01T09:00:00.000Z"
+    },
+    {
+      "id": "txn_006",
+      "description": "Grocery shopping at campus store",
+      "amount": 45.30,
+      "category": "Food",
+      "date": "2025-02-14",
+      "createdAt": "2025-02-14T16:45:00.000Z",
+      "updatedAt": "2025-02-14T16:45:00.000Z"
+    },
+    {
+      "id": "txn_007",
+      "description": "Programming textbook online",
+      "amount": 65.00,
+      "category": "Books",
+      "date": "2025-02-08",
+      "createdAt": "2025-02-08T11:30:00.000Z",
+      "updatedAt": "2025-02-08T11:30:00.000Z"
+    },
+    {
+      "id": "txn_008",
+      "description": "Movie tickets weekend",
+      "amount": 18.00,
+      "category": "Entertainment",
+      "date": "2025-02-17",
+      "createdAt": "2025-02-17T19:00:00.000Z",
+      "updatedAt": "2025-02-17T19:00:00.000Z"
+    },
+    {
+      "id": "txn_009",
+      "description": "Pizza delivery late night study",
+      "amount": 22.50,
+      "category": "Food",
+      "date": "2025-02-16",
+      "createdAt": "2025-02-16T23:15:00.000Z",
+      "updatedAt": "2025-02-16T23:15:00.000Z"
+    },
+    {
+      "id": "txn_010",
+      "description": "Uber ride to campus",
+      "amount": 12.30,
+      "category": "Transport",
+      "date": "2025-02-17",
+      "createdAt": "2025-02-17T08:15:00.000Z",
+      "updatedAt": "2025-02-17T08:15:00.000Z"
+    },
+    {
+      "id": "txn_011",
+      "description": "Lab equipment and supplies",
+      "amount": 35.75,
+      "category": "Fees",
+      "date": "2025-02-12",
+      "createdAt": "2025-02-12T13:00:00.000Z",
+      "updatedAt": "2025-02-12T13:00:00.000Z"
+    },
+    {
+      "id": "txn_012",
+      "description": "Streaming service subscription",
+      "amount": 9.99,
+      "category": "Entertainment",
+      "date": "2025-02-01",
+      "createdAt": "2025-02-01T00:00:00.000Z",
+      "updatedAt": "2025-02-01T00:00:00.000Z"
+    },
+    {
+      "id": "txn_013",
+      "description": "Tea and pastry study break",
+      "amount": 7.25,
+      "category": "Food",
+      "date": "2025-02-11",
+      "createdAt": "2025-02-11T15:30:00.000Z",
+      "updatedAt": "2025-02-11T15:30:00.000Z"
+    },
+    {
+      "id": "txn_014",
+      "description": "Printing and binding for project",
+      "amount": 15.50,
+      "category": "Other",
+      "date": "2025-02-09",
+      "createdAt": "2025-02-09T14:00:00.000Z",
+      "updatedAt": "2025-02-09T14:00:00.000Z"
+    },
+    {
+      "id": "txn_015",
+      "description": "Concert tickets with roommate",
+      "amount": 55.00,
+      "category": "Entertainment",
+      "date": "2025-02-05",
+      "createdAt": "2025-02-05T18:00:00.000Z",
+      "updatedAt": "2025-02-05T18:00:00.000Z"
+    },
+    {
+      "id": "txn_016",
+      "description": "Breakfast sandwich campus cafe",
+      "amount": 6.50,
+      "category": "Food",
+      "date": "2025-01-28",
+      "createdAt": "2025-01-28T08:00:00.000Z",
+      "updatedAt": "2025-01-28T08:00:00.000Z"
+    },
+    {
+      "id": "txn_017",
+      "description": "Statistics textbook used",
+      "amount": 45.00,
+      "category": "Books",
+      "date": "2025-01-25",
+      "createdAt": "2025-01-25T14:30:00.000Z",
+      "updatedAt": "2025-01-25T14:30:00.000Z"
+    },
+    {
+      "id": "txn_018",
+      "description": "Gas for road trip home",
+      "amount": 35.00,
+      "category": "Transport",
+      "date": "2025-01-22",
+      "createdAt": "2025-01-22T16:00:00.000Z",
+      "updatedAt": "2025-01-22T16:00:00.000Z"
+    },
+    {
+      "id": "txn_019",
+      "description": "Gym membership monthly",
+      "amount": 25.00,
+      "category": "Other",
+      "date": "2025-01-20",
+      "createdAt": "2025-01-20T09:00:00.000Z",
+      "updatedAt": "2025-01-20T09:00:00.000Z"
+    },
+    {
+      "id": "txn_020",
+      "description": "Dinner with study group",
+      "amount": 28.75,
+      "category": "Food",
+      "date": "2025-01-18",
+      "createdAt": "2025-01-18T19:30:00.000Z",
+      "updatedAt": "2025-01-18T19:30:00.000Z"
+    },
+    {
+      "id": "txn_021",
+      "description": "Movie streaming subscription",
+      "amount": 12.99,
+      "category": "Entertainment",
+      "date": "2025-01-15",
+      "createdAt": "2025-01-15T00:00:00.000Z",
+      "updatedAt": "2025-01-15T00:00:00.000Z"
+    },
+    {
+      "id": "txn_022",
+      "description": "Campus parking permit",
+      "amount": 75.00,
+      "category": "Fees",
+      "date": "2025-01-10",
+      "createdAt": "2025-01-10T11:00:00.000Z",
+      "updatedAt": "2025-01-10T11:00:00.000Z"
+    },
+    {
+      "id": "txn_023",
+      "description": "Coffee and donut morning",
+      "amount": 5.25,
+      "category": "Food",
+      "date": "2025-01-08",
+      "createdAt": "2025-01-08T07:30:00.000Z",
+      "updatedAt": "2025-01-08T07:30:00.000Z"
+    },
+    {
+      "id": "txn_024",
+      "description": "Bus fare weekly",
+      "amount": 15.00,
+      "category": "Transport",
+      "date": "2025-01-05",
+      "createdAt": "2025-01-05T08:00:00.000Z",
+      "updatedAt": "2025-01-05T08:00:00.000Z"
+    },
+    {
+      "id": "txn_025",
+      "description": "Lunch special today",
+      "amount": 9.99,
+      "category": "Food",
+      "date": "2025-01-03",
+      "createdAt": "2025-01-03T12:15:00.000Z",
+      "updatedAt": "2025-01-03T12:15:00.000Z"
+    },
+    {
+      "id": "txn_026",
+      "description": "Winter semester books bundle",
+      "amount": 180.00,
+      "category": "Books",
+      "date": "2024-12-28",
+      "createdAt": "2024-12-28T13:00:00.000Z",
+      "updatedAt": "2024-12-28T13:00:00.000Z"
+    },
+    {
+      "id": "txn_027",
+      "description": "Holiday party dinner",
+      "amount": 42.50,
+      "category": "Entertainment",
+      "date": "2024-12-20",
+      "createdAt": "2024-12-20T20:00:00.000Z",
+      "updatedAt": "2024-12-20T20:00:00.000Z"
+    },
+    {
+      "id": "txn_028",
+      "description": "Groceries for week",
+      "amount": 68.45,
+      "category": "Food",
+      "date": "2024-12-15",
+      "createdAt": "2024-12-15T16:30:00.000Z",
+      "updatedAt": "2024-12-15T16:30:00.000Z"
+    },
+    {
+      "id": "txn_029",
+      "description": "Taxi to airport",
+      "amount": 45.00,
+      "category": "Transport",
+      "date": "2024-12-10",
+      "createdAt": "2024-12-10T05:00:00.000Z",
+      "updatedAt": "2024-12-10T05:00:00.000Z"
+    },
+    {
+      "id": "txn_030",
+      "description": "Tuition payment fall semester",
+      "amount": 2500.00,
+      "category": "Fees",
+      "date": "2024-12-01",
+      "createdAt": "2024-12-01T09:00:00.000Z",
+      "updatedAt": "2024-12-01T09:00:00.000Z"
+    }
+  ],
+  "settings": {
+    "baseCurrency": "USD",
+    "rates": {
+      "USD": 1.00,
+      "EUR": 0.92,
+      "GBP": 0.79
+    }
+  },
+  "categories": [
+    "Food",
+    "Books",
+    "Transport",
+    "Entertainment",
+    "Fees",
+    "Other"
+  ],
+  "budgetCap": 500,
+  "exportDate": "2025-02-17T12:00:00.000Z"
+}
