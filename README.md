@@ -4,7 +4,7 @@ A comprehensive, accessible web application for managing student finances with a
 
 ## Live Demo
 
-**GitHub Pages:** [https:/](https://gedeon.github.io/student-finance-tracker)
+**GitHub Pages:**(https://pascali-ne.github.io/Responsible_Summative/)
 
 ## Features
 
