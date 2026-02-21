@@ -5,7 +5,8 @@ A comprehensive, accessible web application for managing student finances with a
 ## Live Demo
 
 **GitHub Pages:**(https://pascali-ne.github.io/Responsible_Summative/)
-*demo video of app description: (https://youtu.be/s7XRrOV5Zrs)
+
+#Demo video of app description: (https://youtu.be/s7XRrOV5Zrs)
 
 ## Features
 
